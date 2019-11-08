@@ -2,12 +2,12 @@
 
 This repository contains the homework assignment given to us by a trainer to generate payslips for users.
 
-![](/img1.JPG)
+![](/img/img1.JPG)
 
 ## Back-End Assignment
 ### Assignment : When a user input's the employee's details: first name, last name, annual salary (natural numbers) and super rate (0% -12% inclusive), payment start date, the program should generate payslip information with name, pay period, gross income, income tax, net income and super annuation. 
 
-![](/img2.png)
+![](/img/img2.png)
 
 
 ## The Solution
@@ -42,37 +42,37 @@ The following paths are available for the user in browser after launching the ap
 
 Path: `http://localhost:3000/`
 
-![](/img3.PNG)
+![](/img/img3.PNG)
 
 #### Register
 
 Path: `http://localhost:3000/registerUser`
 
-![](/img4.PNG)
+![](/img/img4.PNG)
 
 #### Login
 
 Path: `http://localhost:3000/login`
 
-![](/img5.PNG)
+![](/img/img5.PNG)
 
 #### Generate Payslip
 
 Path: `http://localhost:3000/generatePayslip/:month`
 
-![](/img6.PNG)
+![](/img/img6.PNG)
 
 #### Update Existing User's Salary
 
 Path: `http://localhost:3000/updateSalary/:sal`
 
-![](/img7.PNG)
+![](/img/img7.PNG)
 
 #### Signout Exisiting User
 
 Path: `http://localhost:3000/signout`
 
-![](/img8.PNG)
+![](/img/img8.PNG)
 
 
 ### Back-End (API)
